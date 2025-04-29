@@ -4,3 +4,4 @@ python-multipart
 moviepy
 transformers
 torch
+openai
